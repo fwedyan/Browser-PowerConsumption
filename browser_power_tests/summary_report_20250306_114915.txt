@@ -1,0 +1,14 @@
+Browser Power Efficiency Test Results
+=====================================
+Test conducted on: 2025-03-06 15:24:33
+Number of test iterations: 5
+
+Test Results Directory: /home/anthony/Desktop/Projects/browser_power_tests
+Log File: /home/anthony/Desktop/Projects/browser_power_tests/power_test_20250306_114915.log
+
+Aggregate Result Files:
+- video_aggregate_results_20250306_114915.csv
+- animation_aggregate_results_20250306_114915.csv
+- js_computation_aggregate_results_20250306_114915.csv
+- webpage_aggregate_results_20250306_114915.csv
+- multiple_tabs_aggregate_results_20250306_114915.csv

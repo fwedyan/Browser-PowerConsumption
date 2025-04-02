@@ -1,0 +1,8 @@
+Browser,Avg Power Mean (W),Avg Power StdDev (W),Max Power Mean (W),Max Power StdDev (W),Min Power Mean (W),Min Power StdDev (W),Total Energy Mean (Wh),Total Energy StdDev (Wh)
+Firefox,34.54,2.17,64.89,0.87,1.11,0.64,0.5757,0.0361
+Chrome,33.12,2.39,64.01,1.83,1.82,0.79,0.5519,0.0399
+Chromium,33.00,1.55,64.99,0.57,1.20,0.37,0.5500,0.0259
+Brave,32.57,1.62,64.35,0.85,0.63,0.44,0.5429,0.0270
+Opera,32.64,2.70,64.29,1.85,2.15,2.50,0.5441,0.0450
+Vivaldi,32.08,1.74,64.16,2.08,0.79,0.48,0.5347,0.0290
+Edge,32.19,1.59,64.90,0.71,0.79,0.56,0.5365,0.0265

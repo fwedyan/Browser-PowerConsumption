@@ -1,0 +1,12 @@
+Browser Power Test - 2025-03-06 11:48:25.964443
+==================================================
+11:48:25 - Starting browser power efficiency tests
+11:48:25 - Number of test iterations: 5
+11:48:25 - Using power measurements from: /sys/class/power_supply/BAT1/power_now
+11:48:25 - Found browser: Firefox
+11:48:25 - Found browser: Chrome
+11:48:25 - Found browser: Chromium
+11:48:25 - Found browser: Brave
+11:48:25 - Found browser: Opera
+11:48:25 - Found browser: Vivaldi
+11:48:25 - Found browser: Edge
