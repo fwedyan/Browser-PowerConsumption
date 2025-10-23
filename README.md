@@ -1,4 +1,4 @@
-# Browser Power Efficiency Test Suite
+# An Empirical Evaluation of Energy Consumption Across Web Browsers
 
 A framework to measure and compare power consumption of different web browsers during typical usage scenarios. Created for Lewis University's Software Architecture class.
 
@@ -53,3 +53,14 @@ Options:
 - `--test-types`: Test types to run
 - `--url`: URL for webpage tests
 - `--iterations`: Number of test iterations
+## How to Cite?
+A. DiBenedetto and F. Wedyan, "An Empirical Evaluation of Energy Consumption Across Web Browsers," 2025 10th International Conference on Fog and Mobile Edge Computing (FMEC), Tampa, FL, USA, 2025, pp. 39-48, doi: 10.1109/FMEC65595.2025.11119363.
+### BibTex:
+@INPROCEEDINGS{11119363,
+  author={DiBenedetto, Anthony and Wedyan, Fadi},
+  booktitle={2025 10th International Conference on Fog and Mobile Edge Computing (FMEC)}, 
+  title={An Empirical Evaluation of Energy Consumption Across Web Browsers}, 
+  year={2025},
+  pages={39-48},
+  keywords={Energy consumption;Power demand;Multi-access edge computing;Green products;Software quality;Rendering (computer graphics);Energy efficiency;User experience;Browsers;Videos;Web browsers;Energy efficiency;Power consumption;Green computing;Empirical study;Software Quality},
+  doi={10.1109/FMEC65595.2025.11119363}}
